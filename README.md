@@ -2,7 +2,7 @@
 
 Given a 2D array, this will generate a table with the data that can be used in markdown.
 
-2D Array in the code:
+Example 2D Array:
 ```$xslt
 String[][] table = {{"Fruits", "Sodas", "Cars"},
 		    {"apples", "Fanta", "Ferrari"},
